@@ -1,3 +1,4 @@
+Testing for the auto value pop when refreshing
 DEFAULT VALUE FOR THE TEST 2
 TEST VALUE ENTERED
 demodeploytest-0.0.1-RELEASE

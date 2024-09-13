@@ -1,5 +1,3 @@
-Testing for the auto value pop when refreshing
-DEFAULT VALUE FOR THE TEST 2
-TEST VALUE ENTERED
+MICROSERVICES LIST
 demodeploytest-0.0.1-RELEASE
 demodeploytest-0.0.1-SNAPSHOT

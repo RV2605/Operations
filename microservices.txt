@@ -3,3 +3,4 @@ demodeploytest-0.0.1-RELEASE
 demodeploytest-0.0.1-SNAPSHOT
 demodeploytest-0.0.4-SNAPSHOT
 demodeploytest-0.0.7-SNAPSHOT
+demodeploytest-1.1.1-SNAPSHOT

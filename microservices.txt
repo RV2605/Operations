@@ -8,3 +8,4 @@ demodeploytest-1.1.2-SNAPSHOT
 demodeploytest-1.1.3-SNAPSHOT
 demodeploytest-2.2.2-SNAPSHOT
 demodeploytest-5.5.5-RELEASE
+demodeploytest-6.6.6-RELEASE

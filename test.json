@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "service_jar_name": "demodeploytest-0.0.1-SNAPSHOT",
+    "environment": "prod",
+    "file_path": "home/ubuntu/home",
+    "shell_script_path": "home/ubuntu/home"
+  }
+]

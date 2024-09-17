@@ -1,5 +1,5 @@
 {
-    "service_name": "demodeploytest-0.0.1-SNAPSHOT",
+    "service_name": "demodeploytest-0.0.1-RELEASE",
     "file_path": "home/ubuntu/home",
     "environment": "PROD"
 }

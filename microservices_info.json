@@ -1,5 +1,5 @@
-[
-  {
-    test:"success"
-  }
-]
+{
+    "service_name": "demodeploytest-0.0.1-SNAPSHOT",
+    "file_path": "home/ubuntu/home",
+    "environment": "PROD"
+}

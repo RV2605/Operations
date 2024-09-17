@@ -1,1 +1,1 @@
-[]
+[, {"service_jar_name":"${newReleaseTag}","environment":${params.environment},"file_path": "${AWS_REPO}","shell_script_path":"${AWS_REPO}"} ]

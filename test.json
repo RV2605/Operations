@@ -4,5 +4,11 @@
     "environment": "prod",
     "file_path": "home/ubuntu/home",
     "shell_script_path": "home/ubuntu/home"
+  },
+  {
+    "service_jar_name": "demodeploytest-0.0.1-RELEASE",
+    "environment": "prod",
+    "file_path": "home/ubuntu/home",
+    "shell_script_path": "home/ubuntu/home"
   }
 ]
